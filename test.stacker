@@ -1,0 +1,5 @@
+PUSH 5
+PUSH 7
+PRINT hello world!
+PUSH 9
+END
